@@ -1,0 +1,7 @@
+.about,
+.products {
+  padding: 50px;
+}
+.about .card-body {
+  text-align: left;
+}

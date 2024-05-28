@@ -1,0 +1,27 @@
+.products .see-details {
+  border: none;
+}
+.products .see-details:hover {
+  outline: none;
+  border: none;
+}
+.products .card {
+  padding: 10px;
+}
+.products .card-img-top {
+  height: 160px;
+  object-fit: contain;
+}
+.products .card-title {
+  -webkit-line-clamp: 1;
+}
+.products .card-text {
+  -webkit-line-clamp: 3;
+}
+.products .card-text,
+.products .card-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
