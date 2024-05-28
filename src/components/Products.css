@@ -5,10 +5,12 @@
   outline: none;
   border: none;
 }
-.products .card {
+.products .card,
+.product-details .card {
   padding: 10px;
 }
-.products .card-img-top {
+.products .card-img-top,
+.product-details .card-img-top {
   height: 160px;
   object-fit: contain;
 }

@@ -1,5 +1,6 @@
 .about,
-.products {
+.products,
+.product-details {
   padding: 50px;
 }
 .about .card-body {

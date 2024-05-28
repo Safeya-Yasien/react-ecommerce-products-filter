@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
 import Products from "./components/Products";
+import ProductDetails from "./components/ProductDetails";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/products" element={<Products />}></Route>
+        <Route path="/product/:productId" element={<ProductDetails />}></Route>
       </Routes>
     </div>
   );

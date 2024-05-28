@@ -63,7 +63,7 @@ const Products = () => {
             {products.map((product) => {
               return (
                 <div className="col-3" key={product.id}>
-                  <Product product={product} />
+                  <Product product={product} detailsButton={true} />
                 </div>
               );
             })}
