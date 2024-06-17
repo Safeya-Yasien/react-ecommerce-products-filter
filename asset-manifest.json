@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/react-simple-ecommerce-v2/static/css/main.b3f14071.css",
-    "main.js": "/react-simple-ecommerce-v2/static/js/main.e9105907.js",
-    "static/js/453.e5796026.chunk.js": "/react-simple-ecommerce-v2/static/js/453.e5796026.chunk.js",
-    "static/media/img-1.jpg": "/react-simple-ecommerce-v2/static/media/img-1.465462f421d3d7ff3bf2.jpg",
-    "static/media/img-3.jpg": "/react-simple-ecommerce-v2/static/media/img-3.38c5d03631bf17a455e3.jpg",
-    "static/media/img-2.jpg": "/react-simple-ecommerce-v2/static/media/img-2.d87d169e6340981806aa.jpg",
-    "index.html": "/react-simple-ecommerce-v2/index.html",
-    "main.b3f14071.css.map": "/react-simple-ecommerce-v2/static/css/main.b3f14071.css.map",
-    "main.e9105907.js.map": "/react-simple-ecommerce-v2/static/js/main.e9105907.js.map",
-    "453.e5796026.chunk.js.map": "/react-simple-ecommerce-v2/static/js/453.e5796026.chunk.js.map"
+    "main.css": "/Safeya-Yasien/Cart_ReduxToolkit.git/static/css/main.db62923b.css",
+    "main.js": "/Safeya-Yasien/Cart_ReduxToolkit.git/static/js/main.4e548c4a.js",
+    "static/js/453.9c2fd923.chunk.js": "/Safeya-Yasien/Cart_ReduxToolkit.git/static/js/453.9c2fd923.chunk.js",
+    "index.html": "/Safeya-Yasien/Cart_ReduxToolkit.git/index.html",
+    "main.db62923b.css.map": "/Safeya-Yasien/Cart_ReduxToolkit.git/static/css/main.db62923b.css.map",
+    "main.4e548c4a.js.map": "/Safeya-Yasien/Cart_ReduxToolkit.git/static/js/main.4e548c4a.js.map",
+    "453.9c2fd923.chunk.js.map": "/Safeya-Yasien/Cart_ReduxToolkit.git/static/js/453.9c2fd923.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3f14071.css",
-    "static/js/main.e9105907.js"
+    "static/css/main.db62923b.css",
+    "static/js/main.4e548c4a.js"
   ]
 }
