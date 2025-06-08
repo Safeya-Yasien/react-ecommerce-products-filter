@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Safeya-Yasien.github.io/react-simple-ecommerce-v2",
-  "name": "react-simple-ecommerce-v2",
+  "homepage": "react-ecommerce-products-filter",
+  "name": "react-ecommerce-products-filter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
