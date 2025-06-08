@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-https://Safeya-Yasien.github.io/react-simple-ecommerce-v2
+https://safeya-yasien.github.io/react-ecommerce-products-filter/
 
 ## Available Scripts
 
